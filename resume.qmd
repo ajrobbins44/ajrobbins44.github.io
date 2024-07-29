@@ -1,88 +1,62 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Amber Robbins
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## Software Engineer
 
+### Contact
 
-## Currently
+ajrobbins04@gmail.com   
+(702) 308-6129   
+Henderson, NV
 
-Standing on the shoulders of giants
+[LinkedIn Profile](https://www.linkedin.com/in/amber-robbins-47a261189/)
 
-### Specialized in
+### Summary
+Motivated computer science major with a burgeoning interest in data science. Proven team leader and collaborative team member known for strong interpersonal skills and meticulous attention to detail. Experienced in software design and web development, leading successful group projects and excelling in technical problem-solving. Seeking opportunities in a dynamic work environment to grow and contribute to a forward-thinking team, dedicated to continuous learning and excellence.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Technical Skills
 
+* **Programming Languages:** Python, C++, JavaScript, HTML/CSS, SQL, Erlang (basic)
+* **Web Development:** Node.js, PHP
+* **Advanced CSS Concepts:** Flexbox, Grid, Animations, Responsive Design
+* **Software Design:** Object-Oriented Design, Design Patterns
+* **Data Science Tools:** Pandas, NumPy, Scikit-Learn, Plotly Express
+* **Databases:** MySQL, MongoDB
+* **Version Control:** Git, GitHub
+* **Development Tools:** VS Code, Xcode, Jupyter Notebook
+* **Operating Systems:** macOS, Linux (basic)
 
-### Research interests
+### Soft Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+* **Leadership:** Experience leading teams of 2-5 members in group projects
+* **Collaboration:** Strong interpersonal skills, effective team player
+* **Communication:** Clear and concise communicator, both written and verbal
+* **Problem-Solving:** Analytical thinker, adept at finding creative solutions
+* **Detail-Oriented:** Meticulous attention to detail, committed to quality work
+* **Adaptability:** Quick learner, capable of picking up new technical skills
+* **Self-Motivated:** Driven to succeed, dedicated to continuous learning and growth
 
+### Experience
 
-## Education
+* **Software Design:** Designed and implemented software solutions using object-oriented principles and design patterns in various projects.
+* **Full Stack Web Development:** Developed full-stack web applications using Node.js and PHP, focusing on both front-end and back-end functionalities.
+* **Object-Oriented Programming:** Applied OOP concepts in multiple programming languages, including Python and C++, to build scalable and maintainable code.
+* **Data Science:** Utilized data science tools and libraries, such as Pandas and NumPy, to analyze and visualize data in various projects.
+* **Functional Programming:** Gained experience with functional programming paradigms and techniques through coursework and projects.
 
-`1654-1660`
-__The King's School, Grantham.__
+### Education
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+**Brigham Young University - Idaho**, Rexburg, ID  
+* **Bachelor of Science in Computer Science**  
+* September 2020 - December 2025 (Expected Graduation Date)   
+* GPA: 3.9
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+**Basic High School**, Henderson, NV  
+* **High School Diploma with Honors**  
+* August 2010 - June 2014  
+* Valedictorian
 
 <!-- ### Footer
 
