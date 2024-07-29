@@ -1,1 +1,1 @@
-Sitemap: git@school.github.com:ajrobbins44/ajrobbins44.github.io.git/sitemap.xml
+Sitemap: https://ajrobbins44.github.io/sitemap.xml
